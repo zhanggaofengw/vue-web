@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import '@/common/css/style.css'
 
 Vue.use(Router)
 
